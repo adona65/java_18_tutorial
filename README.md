@@ -9,4 +9,8 @@ Contains tests and tutorials about java 18 new features.
 <br/>
 <br/>
 <u>Sources I used for java 18 training :</u>
-To be done
+- https://www.happycoders.eu
+- https://jenkov.com
+- http://www.mastertheboss.com
+- https://www.developer.com
+- https://www.loicmathieu.fr
